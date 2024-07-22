@@ -7,7 +7,7 @@
         I'm Seshi Reddy Syamala<br>
         Data Enthusiast<br>
           <div>
-  <img src=""data.jpg" alt="Yogesh's Image" width="400" align = "right,style="margin-left: 20px;"
+  <img src="data.jpg" alt="Seshi's Image" width="400" align = "right">
   </div>
       </abc>
     </h2>
@@ -26,6 +26,20 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
+[![Linkedin Badge](https://img.shields.io/badge/-Seshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)]()
 
+<!--
+**Seshireddysyamala/Seshireddysyamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
