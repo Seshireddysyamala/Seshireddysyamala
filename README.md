@@ -7,7 +7,7 @@
         I'm Seshi Reddy Syamala<br>
         Data Enthusiast<br>
           <div>
-  <img src="https://github.com/Seshireddysyamala/Seshireddysyamala/images/data.jpg" alt="Seshi's Image" width="400" align = "right">
+  <img src="data.jpg" alt="Seshi's Image" width="400" align = "right">
   </div>
       </abc>
     </h2>
