@@ -7,7 +7,7 @@
         I'm Seshi Reddy Syamala<br>
         Data Enthusiast<br>
           <div>
-  <img src="https://github.com/Seshireddysyamala/Seshireddysyamala/data.jpg" alt="Seshi's Image" width="400" align = "right">
+  <img src="https://github.com/Seshireddysyamala/Seshireddysyamala/images/data.jpg" alt="Seshi's Image" width="400" align = "right">
   </div>
       </abc>
     </h2>
@@ -26,7 +26,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yogesh-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
+[![Linkedin Badge](https://img.shields.io/badge/-Seshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)]()
 
 <!--
