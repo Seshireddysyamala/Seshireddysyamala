@@ -27,7 +27,7 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Seshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ys96/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://seshireddys2000.wixsite.com/portfolio)
 
 <!--
 **Seshireddysyamala/Seshireddysyamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
