@@ -12,17 +12,17 @@
       </abc>
     </h2>
   </div>
-
 </div>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :bar_chart: Passionate Data Analyst
 - :mortar_board: Pursuing a Master's in Business Analytics and Information Systems
-- :chart_with_upwards_trend: Expertise in data analysis, visualization, and machine learning
-- :gear: Proficient in Python, R, SQL, and data visualization tools
-- :rocket: Excited about uncovering insights and patterns in data
-- :zap: Fun fact: I love to attend Conferences for Networking and learning<br>
+- :chart_with_upwards_trend: Expertise in data analysis and visualization
+- :gear: Proficient in data visualization tools like **Power BI** and **Tableau**
+- :bar_chart: Skilled in creating interactive dashboards and insightful visualizations
+- :rocket: Excited about uncovering insights and patterns in data to drive decision-making
+- :zap: Fun fact: I love attending conferences to network and learn<br>
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
