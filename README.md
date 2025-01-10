@@ -1,8 +1,7 @@
-</div>
-<div style="text-align: center;">
-  <h2>
-    Hi👋, I'm Seshi - Data Professional🔍📊💻
-  </h2>
+<div align="center">
+  <h2><strong>
+    Hi, I'm Seshi - Data Professional 🔍📊💻🌐
+  </strong></h2>
 </div>
 
 I am a passionate **Data Analyst** with a year of professional experience in data analysis, business intelligence, and visualization. Currently, I am pursuing a Master's in **Business Analytics and Information Systems** at the University of South Florida, maintaining an impressive GPA of 3.89. My technical expertise includes **Python, SQL, Power BI (PL-300 Certified), Tableau, and Excel**, with a strong focus on **ETL**, **data visualization**, **storytelling**, and **predictive modeling** to deliver actionable insights that solve real-world challenges. Throughout my journey, I have worked on impactful projects like **AtliQ Hardware Business Intelligence 360**, where I achieved a **20% improvement in fiscal decision-making** through advanced analytics and dashboard design. I am driven by the opportunity to connect with new people, network, and stay updated on the latest industry trends.
