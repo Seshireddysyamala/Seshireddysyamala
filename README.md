@@ -1,4 +1,8 @@
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex-shrink: 0;">
+    <img src="site-stats-concept-illustration_114360-1434.avif" alt="Data Illustration" width="300" style="margin-right: 20px; border-radius: 10px;">
+  </div>
   <div>
     <h2 align="left">
       <abc>
@@ -8,9 +12,6 @@
         Data Enthusiast<br>
       </abc>
     </h2>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="site-stats-concept-illustration_114360-1434.avif" alt="Data Illustration" width="300" style="margin-left: 20px; border-radius: 10px;">
   </div>
 </div>
 
