@@ -5,14 +5,7 @@
   </h2>
 </div>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :bar_chart: Passionate **Data Analyst** with a year of professional experience in data analysis, business intelligence, and visualization.
-- :mortar_board: Pursuing a Master's in **Business Analytics and Information Systems** at the University of South Florida (GPA: 3.89).
-- :chart_with_upwards_trend: Skilled in **Python, SQL, Power BI (PL-300 Certified), Tableau, and Excel**.
-- :gear: Proficient in **ETL**, **data visualization**,**story telling** and **predictive modeling**, creating actionable insights to solve real-world challenges.
-- :rocket: Worked on impactful projects like **AtliQ Hardware Business Intelligence 360**, achieving a **40% improvement in fiscal decision-making**.
-- :zap: Fun fact: I enjoy connecting with new people to network and keep up with the latest trends.
+I am a passionate **Data Analyst** with a year of professional experience in data analysis, business intelligence, and visualization. Currently, I am pursuing a Master's in **Business Analytics and Information Systems** at the University of South Florida, maintaining an impressive GPA of 3.89. My technical expertise includes **Python, SQL, Power BI (PL-300 Certified), Tableau, and Excel**, with a strong focus on **ETL**, **data visualization**, **storytelling**, and **predictive modeling** to deliver actionable insights that solve real-world challenges. Throughout my journey, I have worked on impactful projects like **AtliQ Hardware Business Intelligence 360**, where I achieved a **20% improvement in fiscal decision-making** through advanced analytics and dashboard design. I am driven by the opportunity to connect with new people, network, and stay updated on the latest industry trends.
 
 <h2 align="left">🌱 More About Me:</h2>
 
@@ -53,11 +46,19 @@
 - **Data Specialties**: EDA, Predictive Modeling, ETL, Data Cleaning, Data Visualization, Trend Analysis, Reporting.  
 - **Databases**: MySQL, Oracle SQL, AWS Redshift.  
 
-<h2 align="left">:heart: Let's Get Connected🌐:</h2>
-<div style="text-align: center;">
-  [![LinkedIn Badge](https://img.shields.io/badge/-Seshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seshi-reddy-syamala/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
-  [![GitHub Repositories](https://img.shields.io/badge/-Repositories-darkgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seshireddysyamala?tab=repositories)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://www.datascienceportfol.io/seshireddy)
+<h2 align="center">:heart: Let's Get Connected 🌐:</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seshi-reddy-syamala/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/Seshireddysyamala?tab=repositories">
+    <img src="https://img.shields.io/badge/-GitHub-darkgreen?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories">
+  </a>
+  <a href="https://www.datascienceportfol.io/seshireddy">
+    <img src="https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
 </div>
+
 
 
