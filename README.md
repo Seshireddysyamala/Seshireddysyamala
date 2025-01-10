@@ -13,31 +13,29 @@ I am a passionate **Data Analyst** with a year of professional experience in dat
 - 👯 **I’m looking to collaborate on**: Data analytics and visualization projects that involve predictive modeling and storytelling.  
 - 🤔 **I’m looking for help with**: Job-hunting strategies, resume reviews, guidance, and mentorship to further upskill in analytics.  
 - 💬 **Ask me about**: Creating compelling dashboards, data cleaning and visual storytelling.  
-- 📫 **How to reach me**: Connect on [LinkedIn](https://www.linkedin.com/in/seshi-reddy-syamala/).  
-- 😄 **Pronouns**: He/Him.  
+- 📫 **How to reach me**: Connect on [LinkedIn](https://www.linkedin.com/in/seshi-reddy-syamala/).   
 - ⚡ **Fun fact**: I once improved decision-making efficiency by 40% for a retail client through a Power BI dashboard!  
  
 
 <h2 align="left">📂 Projects:</h2>
 
 - **[United States Gun Violence Homicides Analysis](https://github.com/Seshireddysyamala/United-States-Gun-Violence-Homicides-Analysis)**  
-  Analyzed gun violence data across the U.S. to identify patterns and factors contributing to homicide rates. :contentReference[oaicite:4]{index=4}
+  Analyzed gun violence data across the U.S. to identify patterns and factors contributing to homicide rates.
 
 - **[Furniture Store Sales and Inventory Optimization](https://github.com/Seshireddysyamala/Furniture-Store-Sales-and-Inventory-Optimization)**  
-  Developed strategies for optimizing sales and inventory in a furniture retail setting, utilizing data analysis to improve profitability and efficiency. :contentReference[oaicite:5]{index=5}
+  Developed strategies for optimizing sales and inventory in a furniture retail setting, utilizing data analysis to improve profitability and efficiency.
   
 - **[Optimizing Supply Chain Efficiency Using Data Analytics and AI for a Beauty Startup](https://github.com/Seshireddysyamala/Optimizing-Supply-Chain-Efficiency-Using-Data-Analytics-and-AI-for-a-Beauty-Startup)**  
   Improved lead times by 30% and reduced stock imbalances by 20% using machine learning models (Random Forest, Logistic Regression, K-Means) and interactive Tableau dashboards.  
 
-
 - **[AtliQ Hardware Business Intelligence 360](https://github.com/Seshireddysyamala/Business-Intelligence-360)**  
-  Developed comprehensive Power BI reports for AtliQ Hardware, an electronics manufacturer, to enhance decision-making across finance, sales, marketing, and supply chain departments. :contentReference[oaicite:0]{index=0}
+  Developed comprehensive Power BI reports for AtliQ Hardware, an electronics manufacturer, to enhance decision-making across finance, sales, marketing, and supply chain departments.
   
 - **[Target Sales Analysis with SQL and Python](https://github.com/Seshireddysyamala/Target-Sales-Analysis-SQL-Python)**  
-  Conducted in-depth sales analysis using SQL and Python to uncover trends and provide actionable insights for business strategy optimization. :contentReference[oaicite:3]{index=3}
+  Conducted in-depth sales analysis using SQL and Python to uncover trends and provide actionable insights for business strategy optimization.
 
 - **[Heart Attack Prediction](https://github.com/Seshireddysyamala/Heart-Attack-Prediction)**  
-  Built predictive models to assess the risk of heart attacks based on patient data, aiming to aid in early diagnosis and prevention. :contentReference[oaicite:6]{index=6}
+  Built predictive models to assess the risk of heart attacks based on patient data, aiming to aid in early diagnosis and prevention.
 
 <h2 align="left">🌟 Technical Skills:</h2>
 
