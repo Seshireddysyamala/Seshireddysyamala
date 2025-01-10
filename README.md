@@ -1,12 +1,10 @@
 <div style="text-align: center;">
-  <img src="site-stats-concept-illustration_114360-1434.avif" alt="Data Illustration" width="300" style="border-radius: 10px;">
 </div>
 
 <div style="text-align: center;">
   <h2>
     Hi there 👋<br>
-    I'm Seshi Reddy Syamala<br>
-    Data Enthusiast
+    I'm Seshi Reddy Syamala<br> - Data Professional
   </h2>
 </div>
 
