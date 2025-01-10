@@ -1,10 +1,7 @@
-<div style="text-align: center;">
 </div>
-
 <div style="text-align: center;">
   <h2>
-    Hi there 👋<br>
-    I'm Seshi Reddy Syamala<br> - Data Professional
+    Hi👋, I'm Seshi - Data Professional🔍📊💻
   </h2>
 </div>
 
@@ -56,9 +53,11 @@
 - **Data Specialties**: EDA, Predictive Modeling, ETL, Data Cleaning, Data Visualization, Trend Analysis, Reporting.  
 - **Databases**: MySQL, Oracle SQL, AWS Redshift.  
 
-<h2 align="left">:heart: Let's Get Connected:</h2>
+<h2 align="left">:heart: Let's Get Connected🌐:</h2>
+<div style="text-align: center;">
+  [![LinkedIn Badge](https://img.shields.io/badge/-Seshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seshi-reddy-syamala/)](https://www.linkedin.com/in/seshi-reddy-syamala/)
+  [![GitHub Repositories](https://img.shields.io/badge/-Repositories-darkgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seshireddysyamala?tab=repositories)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://www.datascienceportfol.io/seshireddy)
+</div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Seshi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seshi-reddy-syamala/)](https://www.linkedin.com/in/seshi-reddy-syamala/)  
-[![GitHub Repositories](https://img.shields.io/badge/-Repositories-darkgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Seshireddysyamala?tab=repositories)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://www.datascienceportfol.io/seshireddy)
 
