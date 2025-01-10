@@ -1,18 +1,13 @@
+<div style="text-align: center;">
+  <img src="site-stats-concept-illustration_114360-1434.avif" alt="Data Illustration" width="300" style="border-radius: 10px;">
+</div>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex-shrink: 0;">
-    <img src="site-stats-concept-illustration_114360-1434.avif" alt="Data Illustration" width="300" style="margin-right: 20px; border-radius: 10px;">
-  </div>
-  <div>
-    <h2 align="left">
-      <abc>
-        Hi there 👋<br>
-        <br>
-        I'm Seshi Reddy Syamala<br>
-        Data Enthusiast<br>
-      </abc>
-    </h2>
-  </div>
+<div style="text-align: center;">
+  <h2>
+    Hi there 👋<br>
+    I'm Seshi Reddy Syamala<br>
+    Data Enthusiast
+  </h2>
 </div>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
