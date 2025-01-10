@@ -46,9 +46,9 @@ I am a passionate **Data Analyst** with a year of professional experience in dat
 - **Data Specialties**: EDA, Predictive Modeling, ETL, Data Cleaning, Data Visualization, Trend Analysis, Reporting.  
 - **Databases**: MySQL, Oracle SQL, AWS Redshift.  
 
-<h2 align="center">:heart: Let's Get Connected 🌐:</h2>
+<h2 align="left">:heart: Let's Get Connected 🌐:</h2>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/seshi-reddy-syamala/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
