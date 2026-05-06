@@ -28,8 +28,8 @@ I am a passionate **Data Analyst** with a year of professional experience in dat
 - **[Optimizing Supply Chain Efficiency Using Data Analytics and AI for a Beauty Startup](https://github.com/Seshireddysyamala/Optimizing-Supply-Chain-Efficiency-Using-Data-Analytics-and-AI-for-a-Beauty-Startup)**  
   Improved lead times by 30% and reduced stock imbalances by 20% using machine learning models (Random Forest, Logistic Regression, K-Means) and interactive Tableau dashboards.  
 
-- **[AtliQ Hardware Business Intelligence 360](https://github.com/Seshireddysyamala/Business-Intelligence-360)**  
-  Developed comprehensive Power BI reports for AtliQ Hardware, an electronics manufacturer, to enhance decision-making across finance, sales, marketing, and supply chain departments.
+- **[AtliQ Hardware AWS Redshift & PowerBI Analytics Pipeline/](https://github.com/Seshireddysyamala/AtliQ-Hardware-AWS-Redshift-PowerBI-Analytics-Pipeline)**  
+  Developed comprehensive AWS based Power BI reports for AtliQ Hardware, an electronics manufacturer, to enhance decision-making across finance, sales, marketing, and supply chain departments.
   
 - **[Target Sales Analysis with SQL and Python](https://github.com/Seshireddysyamala/Target-Sales-Analysis-SQL-Python)**  
   Conducted in-depth sales analysis using SQL and Python to uncover trends and provide actionable insights for business strategy optimization.
